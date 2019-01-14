@@ -1,0 +1,2 @@
+F:\Anindita Workspace\Selenium_C#_Latest\Selenium_Csharp_LatestBackup\UnitTestProject14June2018\UnitTestProject14June2018\obj\Release\UnitTestProject14June2018.csprojAssemblyReference.cache
+F:\Anindita Workspace\Selenium_C#_Latest\Selenium_Csharp_LatestBackup\UnitTestProject14June2018\UnitTestProject14June2018\obj\Release\UnitTestProject14June2018.csproj.CoreCompileInputs.cache
